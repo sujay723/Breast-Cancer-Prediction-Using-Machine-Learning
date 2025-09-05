@@ -74,4 +74,23 @@ ROC Curve & AUC – Overall discriminative power
 
 📈 ROC curve is included: roc_breast_cancer.jpeg
 
+
+🔮 Future Improvements
+
+Hyperparameter tuning with GridSearchCV / RandomizedSearchCV
+
+Feature selection to improve model efficiency
+
+Deep Learning models (e.g., Neural Networks)
+
+Deployment using Flask / FastAPI for web interface
+
+Streamlit app for interactive predictions
+
+
+📖 Acknowledgements
+Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
+
+Visualization inspiration: ROC & Exploratory Data Analysis
+
    
