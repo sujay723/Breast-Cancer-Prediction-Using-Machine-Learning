@@ -29,9 +29,9 @@ A Jupyter notebook-based project to predict breast cancer using machine learning
 ## 🚀 Usage
 ## Running the Notebook
 
-1.Open Breast Cancer Prediction.ipynb.
+1. Open Breast Cancer Prediction.ipynb.
 
-2.Execute cells step by step:
+2. Execute cells step by step:
 
 - Load dataset
 
@@ -41,23 +41,23 @@ A Jupyter notebook-based project to predict breast cancer using machine learning
 
 - Evaluate model performance
 
-- Save trained model (.pkl)
+3. Save trained model (.pkl)
 
 
 
 ## 🧠 Models Used
 
-Logistic Regression
+- Logistic Regression
 
-Random Forest Classifier
+- Random Forest Classifier
 
-Support Vector Machine (SVM)
+- Support Vector Machine (SVM)
 
-K-Nearest Neighbors (KNN)
+- K-Nearest Neighbors (KNN)
 
-Decision Tree Classifier
+- Decision Tree Classifier
 
-The best model (based on accuracy, precision, recall, F1, and ROC curve) is highlighted in the notebook.
+- The best model (based on accuracy, precision, recall, F1, and ROC curve) is highlighted in the notebook.
 
 
 ## 📊 Evaluation Metrics
