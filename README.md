@@ -25,3 +25,53 @@ A Jupyter notebook-based project to predict breast cancer using machine learning
    ```bash
    git clone https://github.com/sujay723/Breast-Cancer-Prediction-Using-Machine-Learning.git
    cd Breast-Cancer-Prediction-Using-Machine-Learning
+
+🚀 Usage
+Running the Notebook
+
+Open Breast Cancer Prediction.ipynb.
+
+Execute cells step by step:
+
+Load dataset
+
+Preprocess data (handle missing values, scaling, etc.)
+
+Train ML models
+
+Evaluate model performance
+
+Save trained model (.pkl)
+
+
+
+🧠 Models Used
+
+Logistic Regression
+
+Random Forest Classifier
+
+Support Vector Machine (SVM)
+
+K-Nearest Neighbors (KNN)
+
+Decision Tree Classifier
+
+The best model (based on accuracy, precision, recall, F1, and ROC curve) is highlighted in the notebook.
+
+
+📊 Evaluation Metrics
+
+Accuracy – Overall correctness
+
+Precision – Correct positive predictions
+
+Recall (Sensitivity) – Ability to detect true positives
+
+F1-Score – Balance between precision and recall
+
+ROC Curve & AUC – Overall discriminative power
+
+📈 ROC curve is included: roc_breast_cancer.jpeg
+
+   
