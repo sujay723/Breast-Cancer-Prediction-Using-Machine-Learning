@@ -26,7 +26,7 @@ A Jupyter notebook-based project to predict breast cancer using machine learning
    git clone https://github.com/sujay723/Breast-Cancer-Prediction-Using-Machine-Learning.git
    cd Breast-Cancer-Prediction-Using-Machine-Learning
 
-🚀 Usage
+## 🚀 Usage
 Running the Notebook
 
 Open Breast Cancer Prediction.ipynb.
@@ -45,7 +45,7 @@ Save trained model (.pkl)
 
 
 
-🧠 Models Used
+## 🧠 Models Used
 
 Logistic Regression
 
@@ -60,7 +60,7 @@ Decision Tree Classifier
 The best model (based on accuracy, precision, recall, F1, and ROC curve) is highlighted in the notebook.
 
 
-📊 Evaluation Metrics
+## 📊 Evaluation Metrics
 
 Accuracy – Overall correctness
 
@@ -75,7 +75,7 @@ ROC Curve & AUC – Overall discriminative power
 📈 ROC curve is included: roc_breast_cancer.jpeg
 
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Hyperparameter tuning with GridSearchCV / RandomizedSearchCV
 
@@ -88,7 +88,7 @@ Deployment using Flask / FastAPI for web interface
 Streamlit app for interactive predictions
 
 
-📖 Acknowledgements
+## 📖 Acknowledgements
 Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
 
 Visualization inspiration: ROC & Exploratory Data Analysis
