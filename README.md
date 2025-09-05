@@ -31,7 +31,7 @@ A Jupyter notebook-based project to predict breast cancer using machine learning
 
 **1. Open `Breast Cancer Prediction.ipynb.`**
 
-**2. `Execute cells step by step`:**
+**2. Execute cells step by step:**
 
 - Load dataset
 
@@ -41,7 +41,7 @@ A Jupyter notebook-based project to predict breast cancer using machine learning
 
 - Evaluate model performance
 
-**3. Save trained model (.pkl)**
+**3. Save trained model (.`pkl`)**
 
 
 
@@ -72,7 +72,7 @@ A Jupyter notebook-based project to predict breast cancer using machine learning
 
 - **ROC Curve & AUC** – Overall discriminative power
 
-**📈 ROC curve is included:** roc_breast_cancer.jpeg
+**📈 ROC curve is included:** `roc_breast_cancer.jpeg`
 
 
 ## 🔮 Future Improvements
