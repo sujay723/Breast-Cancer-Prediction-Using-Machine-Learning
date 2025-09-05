@@ -89,7 +89,7 @@ A Jupyter notebook-based project to predict breast cancer using machine learning
 
 
 ## 📖 Acknowledgements
-- Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
+- Libraries: ## pandas, numpy, scikit-learn, matplotlib, seaborn
 
 - Visualization inspiration: ROC & Exploratory Data Analysis
 
