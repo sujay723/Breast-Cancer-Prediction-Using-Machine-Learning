@@ -27,9 +27,9 @@ A Jupyter notebook-based project to predict breast cancer using machine learning
    cd Breast-Cancer-Prediction-Using-Machine-Learning
 
 ## 🚀 Usage
-Running the Notebook
+## Running the Notebook
 
-Open Breast Cancer Prediction.ipynb.
+'Open Breast Cancer Prediction.ipynb.'
 
 Execute cells step by step:
 
