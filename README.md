@@ -33,13 +33,13 @@ A Jupyter notebook-based project to predict breast cancer using machine learning
 
 2. Execute cells step by step:
 
-- Load dataset
+ - Load dataset
 
-- Preprocess data (handle missing values, scaling, etc.)
+ - Preprocess data (handle missing values, scaling, etc.)
 
-- Train ML models
+ - Train ML models
 
-- Evaluate model performance
+ - Evaluate model performance
 
 3. Save trained model (.`pkl`)
 
