@@ -62,35 +62,35 @@ A Jupyter notebook-based project to predict breast cancer using machine learning
 
 ## 📊 Evaluation Metrics
 
-Accuracy – Overall correctness
+- Accuracy – Overall correctness
 
-Precision – Correct positive predictions
+- Precision – Correct positive predictions
 
-Recall (Sensitivity) – Ability to detect true positives
+- Recall (Sensitivity) – Ability to detect true positives
 
-F1-Score – Balance between precision and recall
+- F1-Score – Balance between precision and recall
 
-ROC Curve & AUC – Overall discriminative power
+- ROC Curve & AUC – Overall discriminative power
 
-📈 ROC curve is included: roc_breast_cancer.jpeg
+- 📈 ROC curve is included: roc_breast_cancer.jpeg
 
 
 ## 🔮 Future Improvements
 
-Hyperparameter tuning with GridSearchCV / RandomizedSearchCV
+- Hyperparameter tuning with GridSearchCV / RandomizedSearchCV
 
-Feature selection to improve model efficiency
+- Feature selection to improve model efficiency
 
-Deep Learning models (e.g., Neural Networks)
+- Deep Learning models (e.g., Neural Networks)
 
-Deployment using Flask / FastAPI for web interface
+- Deployment using Flask / FastAPI for web interface
 
-Streamlit app for interactive predictions
+- Streamlit app for interactive predictions
 
 
 ## 📖 Acknowledgements
-Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
+- Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
 
-Visualization inspiration: ROC & Exploratory Data Analysis
+- Visualization inspiration: ROC & Exploratory Data Analysis
 
    
