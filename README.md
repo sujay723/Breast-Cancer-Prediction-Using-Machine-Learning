@@ -94,7 +94,7 @@ A Jupyter notebook-based project to predict breast cancer using machine learning
 - Visualization inspiration: ROC & Exploratory Data Analysis
 
 
-## 👤 Author
+
 **Sujay Roy**
 
    
